@@ -5,11 +5,11 @@
 
 - 🌱 Actualmente estoy aprendiendo **Astro.js**
 
-- 👨‍💻 Todos mis proyectos están disponibles en [https://github.com/LucaDiFulvio](https://github.com/LucaDiFulvio)
-
 - 💬 Pregúntame sobre **React**
 
 - 📫 Cómo contactarme **lucamdifulvio@gmail.com**
+
+- 📍 Actualmente viviendo en Málaga
 
 <h3 align="left">Conéctate conmigo:</h3>
 <p align="left">
